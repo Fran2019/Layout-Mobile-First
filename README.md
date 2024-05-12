@@ -2,12 +2,7 @@
 # mobileFirst
 
 ## mobile First practice layout - From Figma to HTML &amp; CSS
-- ¿Cuál fue su motivación?
-- ¿Por qué desarrolló este proyecto? (Nota: La respuesta no es “Porque fue una asignación de tarea”.)
-- ¿Qué problema resuelve?
-- ¿Qué aprendió?
+- layout practice starting from Mobile First since nowadays websites are mostly viewed through mobile devices.
+- I wanted to develop this project to keep myself in shape with web layouts. 
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 </div>
