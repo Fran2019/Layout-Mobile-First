@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0;">
+<div style="background-color: #ffffff;">
 # mobileFirst
 
 ## mobile First practice layout - From Figma to HTML &amp; CSS
