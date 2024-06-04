@@ -3,8 +3,7 @@
 ### Buen repaso de: 
 -  maquetación web sin frameworks.
 -  visualización previa y en consola de como quedaría el trabajo visto desde un teléfono celular
-
-...
+  
 ### Basic structure of this web:
 - A header with a logo, title, and a button.
 - A section with a logo, text, and a table.
