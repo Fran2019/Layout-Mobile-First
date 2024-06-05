@@ -1,8 +1,8 @@
 # Práctica de maquetación Mobile First con Html y CSS a partir de un mock-up compartido en Figma.
 
-[!NOTE] Buen repaso de: 
--  maquetación web sin frameworks.
--  visualización previa y en consola de como quedaría el trabajo visto desde un teléfono celular
+> [!NOTE] Buen repaso de: 
+> -  maquetación web sin frameworks.
+> -  visualización previa y en consola de como quedaría el trabajo visto desde un teléfono celular
   
 ### Basic structure of this web:
 - A header with a logo, title, and a button.
