@@ -12,11 +12,10 @@
 - A third section with a background image and a title.
 - A final section with cards, titles, text, and a price carousel.
 - A footer with an image and text.
-
-Fonts:
-font-family: "DM Sans", sans-serif;
-font-family: "Inter Tight", sans-serif;
-
-- Name classes based on components using the agile methodology BEM (Block, Element, Modifier).
-- Dividing the entire interface into blocks that can be reused and scaled. This way, a section 
+[*] Name classes based on components using the agile methodology BEM (Block, Element, Modifier).
+[*] Dividing the entire interface into blocks that can be reused and scaled. > This way, a section 
 can be separated into multiple small sections and given a name in this order and function.
+
+### Fonts:
+- "DM Sans"
+- "Inter Tight"
